@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #0a0a34;
+}
+
+.nav-item {
+    background-color: #0c0c3f;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.active {
+    background-color: #141464;
+    border-radius: 20px;
+}
